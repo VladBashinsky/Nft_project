@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded' , () => {
-  const timer = new Date('August 5 2023 00:00:00');
+  const timer = new Date('August 5 2024 00:00:00');
 
 
   const daysval = document.querySelector('.time-count-days' );
